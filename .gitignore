@@ -1,0 +1,11 @@
+src/**
+src
+static/**
+*.md
+hoedown
+config.txt
+discord_api.txt
+!test.md
+!README.md
+.clangd
+post/**

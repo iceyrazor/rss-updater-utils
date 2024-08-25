@@ -1,0 +1,7 @@
+url:
+prime_folder:
+css_file:static/static-style.css
+css_upload:assets
+post:updates
+ftp:
+user:
