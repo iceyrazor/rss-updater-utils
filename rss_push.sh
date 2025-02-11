@@ -45,9 +45,11 @@ put index.xml
 put index.html
 EOF
 
+elif [ "$1" == "ALL" ]; then
+    printf "not implemented \n\n"
 else
 
-ftp -n -vvv <<EOF
+    ftp -n -vvv <<EOF
 open $ftp
 user $user $pass 
 
