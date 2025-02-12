@@ -13,6 +13,7 @@ well its all shell. except for converting from md to html. witch you need hoedow
 - download this repo
 - put hoedown in this repo ./
 - make a directoy in this repo. static
+- make a file called static-style.css in static/
 - make a folder inside static for your 'posting' page.
 - copy config.def.txt as config.txt and config it.
 - prime folder is if on your webserver you want everything in a sub-directory. leave as is if you dont want it. must have trailing /!
